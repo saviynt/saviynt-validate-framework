@@ -1,0 +1,9 @@
+com\saviynt\custom\UserPreprocessValidator\validator\UserCustomValidator$1.class
+com\saviynt\custom\UserPreprocessValidator\validator\UserBulkCustomValidator.class
+com\saviynt\custom\UserPreprocessValidator\validator\UserBulkCustomValidator$1.class
+com\saviynt\custom\UserPreprocessValidator\domain\User.class
+com\saviynt\custom\UserPreprocessor\App.class
+com\saviynt\custom\UserPreprocessValidator\validator\UserCustomValidator$2.class
+com\saviynt\custom\UserPreprocessValidator\domain\ValidationResponse.class
+com\saviynt\custom\UserPreprocessValidator\validator\UserCustomValidator.class
+com\saviynt\custom\domain\User.class

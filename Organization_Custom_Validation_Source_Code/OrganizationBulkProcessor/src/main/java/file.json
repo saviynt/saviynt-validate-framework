@@ -1,0 +1,86 @@
+{
+	"tab": "sendforapproval",
+	"source": "ars",
+	"sourceaction": "updateOrg",
+	"details": {
+		"customername": "Olive07",
+		"status": 1,
+		"createdate": "Feb 02, 2021",
+		"startdate": "Feb 03, 2021",
+		"enddate": "Feb 28, 2021",
+		"updatedate": "Feb 03, 2021",
+		"createuser": "admin",
+		"updateuser": "admin2",
+		"customproperty1": "cp1",
+		"customproperty3": "cp3",
+		"customproperty4": "cp4",
+		"customproperty5": "cp5",
+		"customproperty6": "cp6",
+		"customproperty27": "O\u003dTPC,OU\u003dShellOrg,DC\u003dIMS,DC\u003dShell,DC\u003dcom",
+		"risk": 0,
+		"score": 0,
+		"comments": "updated value",
+		"customertype": 4,
+		"isApi": "FALSE",
+		"isCreateOrg": "FALSE",
+		"source": "ars",
+		"sourceaction": "updateOrg",
+		"displayname": "Olive07"
+	},
+	"endpoints": [
+		{
+			"endpointname": "AzureAD"
+		}
+	],
+	"roles": [
+		{
+			"rolename": "Role1"
+		}
+	],
+	"owners": [
+		{
+			"owner": "admin",
+			"rank": 1,
+			"policy": 1
+		}
+	],
+	"entitlements": [
+		{
+			"entitlementvalue": "ZSAVTESTG1"
+		}
+	],
+	"attributes": [
+		{
+			"attributegroupname": "region",
+			"value": "east",
+			"attributes": "street,city,country,district"
+		},
+		{
+			"attributegroupname": "locality",
+			"value": "kolkata",
+			"attributes": "street,city,country"
+		},
+		{
+			"attributegroupname": "region",
+			"value": "east",
+			"attributes": "street,city,country,district",
+			"attributevalues": {
+				"country": "India",
+				"city": "Kolkata",
+				"street": "D 319 101 shapoorji Pallonji sukhobristi kolkata",
+				"district": "West Bengal"
+			}
+		},
+		{
+			"attributegroupname": "locality",
+			"value": "kolkata",
+			"attributes": "street",
+			"attributevalues": {
+				"country": "India",
+				"city": "Kolkata",
+				"street": "Stalin Road"
+			}
+		}
+	],
+	"errorMessage": ""
+}
